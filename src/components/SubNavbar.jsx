@@ -2,13 +2,14 @@ import AppBar from "@mui/material/AppBar";
 import Grid from "@mui/material/Grid";
 import Button from "@mui/material/Button";
 import ButtonGroup from "@mui/material/ButtonGroup";
-import MenuItem from "@mui/material/MenuItem";
-import { Select } from "@mui/material";
-
-
+import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+import SearchIcon from "@mui/icons-material/Search";
+import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
+import PersonOutlineIcon from "@mui/icons-material/PersonOutline";
+import LocalMallIcon from "@mui/icons-material/LocalMall";
 
 const navItems = {
-  "STREETWEAR EDIT": {
+  STREETWEAR: {
     isDropDown: false,
   },
   TOPWEAR: {
@@ -83,26 +84,115 @@ const navItems = {
 const SubNavbar = () => {
   return (
     <>
-      <AppBar position="relative" sx={{ bgcolor: "white" }}>
+      <AppBar position="sticky" sx={{ bgcolor: "white" }}>
         <Grid container>
-          <Grid item xs={2}></Grid>
-          <Grid item xs={8} display={"flex"}>
-            {Object.entries(navItems).map(([itemName,item]) => (
-              <ButtonGroup key={itemName}>
-                
-                  {item.isDropDown?
-                  (
-                    <Select labelId="demo-simple-select-label" label={itemName[0]}  id="demo-simple-select" >
-                      {item.dropDownItems.map((dropDownItem) => (
-                        <MenuItem key={dropDownItem}>{dropDownItem}</MenuItem>
-                      ))}
-                    </Select>
-                  ):
-                  (<Button>{itemName}</Button>)}
+          <Grid item xs={1}></Grid>
+          <Grid item xs={9} display={"flex"}>
+            {Object.entries(navItems).map(([itemName, item]) => (
+              <ButtonGroup
+                key={itemName}
+                variant="text"
+                sx={{ display: "flex" }}
+              >
+                <Button
+                  disableRipple={true}
+                  sx={{
+                    color: "#3e3f45",
+                    paddingX: 2,
+                    paddingY: 2.3,
+                    marginRight: 1,
+                    display: "flex",
+                    fontWeight: 600,
+                    fontFamily: "Source  Sans Pro, sans-serif",
+                    fontSize: "0.6 rem",
+                    textTransform: "uppercase",
+                    // letterSpacing: ".1rem",
+                    textDecoration: "none",
+                    borderRadius: "0",
+                    borderBottom: "3px solid white",
+                    "&:hover": {
+                      bgcolor: "fbfbfb",
+                      color: "#ed2d2f ",
+                      borderRadius: "0",
+                      borderBottom: "3px solid #ed2d2f",
+                    },
+                  }}
+                >
+                  {itemName}
+                  {item.isDropDown && <ArrowDropDownIcon fontSize="small" />}
+                </Button>
               </ButtonGroup>
             ))}
           </Grid>
-          <Grid item xs={2}></Grid>
+          <Grid
+            item
+            xs={2}
+            // border={"2px solid black"}
+            display={"flex"}
+            justifyContent={"center"}
+            alignItems={"center"}
+            paddingX={1}
+          >
+            <SearchIcon
+              sx={{
+                color: "black",
+                display: "flex",
+                marginLeft: 2,
+                marginX: 1.2,
+                fontSize: "2rem",
+                cursor: "pointer",
+              }}
+              // fontSize="large"
+            />
+            <PersonOutlineIcon
+              sx={{
+                color: "black",
+                display: "flex",
+                marginX: 1.2,
+                fontSize: "2rem",
+                cursor: "pointer",
+                height: "100%",
+                borderBottom: "3px solid white",
+                "&:hover": {
+                  color: "#ed2d2f",
+                  borderBottom: "3px solid #ed2d2f",
+                },
+              }}
+              // fontSize="large"
+            />
+            <FavoriteBorderIcon
+              sx={{
+                color: "black",
+                display: "flex",
+                marginX: 1.2,
+                fontSize: "2rem",
+                cursor: "pointer",
+                height: "100%",
+                borderBottom: "3px solid white",
+                "&:hover": {
+                  color: "#ed2d2f",
+                  borderBottom: "3px solid #ed2d2f",
+                },
+              }}
+              // fontSize="large"
+            />
+            <LocalMallIcon
+              sx={{
+                color: "black",
+                display: "flex",
+                marginX: 1.2,
+                fontSize: "2rem",
+                cursor: "pointer",
+                height: "100%",
+                borderBottom: "3px solid white",
+                "&:hover": {
+                  color: "#ed2d2f",
+                  borderBottom: "3px solid #ed2d2f",
+                },
+              }}
+              // fontSize="large"
+            />
+          </Grid>
         </Grid>
       </AppBar>
     </>
