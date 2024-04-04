@@ -16,7 +16,7 @@ import {
 import { Link } from "react-router-dom";
 import { Select, MenuItem, FormControl, Button } from "@mui/material";
 import { useState } from "react";
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import FavoriteBorderOutlinedIcon from "@mui/icons-material/FavoriteBorderOutlined";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
@@ -26,6 +26,20 @@ import AssignmentReturnOutlinedIcon from "@mui/icons-material/AssignmentReturnOu
 
 const sizeAvailable = ["XS", "S", "M", "L", "XL", "XXL"];
 const quantity = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10"];
+const materialInfo = [
+  "Premium Heavy Gauge Fabric",
+  "100% Cotton ",
+  "Machine Wash",
+];
+
+const company = {
+  name: "The Souled Store Pvt. Ltd.",
+  addressLine1: "224, Tantia Jogani Industrial Premises",
+  addressLine2: "J.R. Boricha Marg",
+  addressLine3: "Lower Parel (E)",
+  city: "Mumbai - 11",
+  email: "connect@thesouledstore.com",
+};
 
 const ProductPage = () => {
   const [buyQuantity, setBuyQuantity] = useState(1);
@@ -315,21 +329,52 @@ const ProductPage = () => {
                     30-day return or exchange policy. No questions asked.
                   </Typography>
                 </Paper>
-                <Box marginTop={3}>
+                <Box marginTop={3} marginBottom={2}>
                   <Accordion>
                     <AccordionSummary
                       expandIcon={<ExpandMoreIcon />}
                       aria-controls="panel1-content"
                       id="panel1-header"
                     >
-                     <Typography fontWeight={"bold"} variant="subtitle1" >Product Details</Typography>
+                      <Typography fontWeight={"bold"} variant="subtitle1">
+                        Product Details
+                      </Typography>
                     </AccordionSummary>
                     <AccordionDetails>
-                      <Box>
-                        <Typography fontWeight={"bold"} variant="subtitle2" >Material & Care:</Typography>
-                        <Typography variant="body2" >Premium Heavy Gauge Fabric</Typography>
-                        <Typography variant="body2" >100% Cotton</Typography>
-                        <Typography variant="body2" >Machine Wash</Typography>
+                      <Box marginLeft={1.5}>
+                        <Typography fontWeight={"bold"} variant="subtitle2">
+                          Material & Care:
+                        </Typography>
+                        {materialInfo.map((info) => (
+                          <Typography variant="body2" key={info}>
+                            {info}
+                          </Typography>
+                        ))}
+                        <Box marginTop={3} display={"flex"}>
+                          <Typography variant="subtitle2" fontWeight={"bold"}>
+                            Country of Origin:
+                          </Typography>
+                          <Typography
+                            variant="subtitle2"
+                            sx={{ marginLeft: 0.5 }}
+                          >
+                            India
+                          </Typography>
+                        </Box>
+                        <Box
+                          marginTop={3}
+                          display={"flex"}
+                          flexDirection={"column"}
+                        >
+                          <Typography fontWeight={"bold"} variant="subtitle2">
+                            Manufactured & Sold By:
+                          </Typography>
+                          {Object.entries(company).map(([itemName, item]) => (
+                            <Typography variant="body2" key={itemName}>
+                              {item}
+                            </Typography>
+                          ))}
+                        </Box>
                       </Box>
                     </AccordionDetails>
                   </Accordion>
@@ -339,12 +384,19 @@ const ProductPage = () => {
                       aria-controls="panel2-content"
                       id="panel2-header"
                     >
-                      Accordion 2
+                      <Typography fontWeight={"bold"} variant="subtitle1">
+                        Product Description
+                      </Typography>
                     </AccordionSummary>
-                    <AccordionDetails>    
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Suspendisse malesuada lacus ex, sit amet blandit leo
-                      lobortis eget.
+                    <AccordionDetails>
+                      <Typography fontWeight={"bold"} variant="subtitle2">
+                        Official Licensed One Piece: Luffy The Pirate King
+                        Oversized T-Shirts.
+                      </Typography>
+                      <Typography variant="body2">
+                        Shop for One Piece: Luffy The Pirate King Oversized
+                        T-Shirts at The Souled Store.
+                      </Typography>
                     </AccordionDetails>
                   </Accordion>
                 </Box>
