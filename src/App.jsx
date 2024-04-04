@@ -9,11 +9,12 @@ function App() {
   return (
     <>
       <BrowserRouter>
-        <AppBar />
+      {window.location.pathname !== '/signin' && <AppBar />}
         <Routes>
+          {/* <AppBar /> */}
           <Route path="/product" element={<ProductCardContainer />} />
           <Route path="/product-page" element={<ProductPage />} />
-          <Route path="/SignIn" element={<SignIn />} />
+          <Route path="/signIn" element={<SignIn />} />
         </Routes>
       </BrowserRouter>
     </>
