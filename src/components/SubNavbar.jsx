@@ -135,7 +135,7 @@ const SubNavbar = () => {
           >
             <SearchIcon
               sx={{
-                color: "black",
+                color: "#58595b",
                 display: "flex",
                 marginLeft: 2,
                 marginX: 1.2,
@@ -146,7 +146,7 @@ const SubNavbar = () => {
             />
             <PersonOutlineIcon
               sx={{
-                color: "black",
+                color: "#58595b",
                 display: "flex",
                 marginX: 1.2,
                 fontSize: "2rem",
@@ -162,7 +162,7 @@ const SubNavbar = () => {
             />
             <FavoriteBorderIcon
               sx={{
-                color: "black",
+                color: "#58595b",
                 display: "flex",
                 marginX: 1.2,
                 fontSize: "2rem",
@@ -178,7 +178,7 @@ const SubNavbar = () => {
             />
             <LocalMallIcon
               sx={{
-                color: "black",
+                color: "#58595b",
                 display: "flex",
                 marginX: 1.2,
                 fontSize: "2rem",
