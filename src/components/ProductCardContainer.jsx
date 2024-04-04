@@ -1,6 +1,6 @@
-import React from "react";
-import { Paper, Container, Grid, Box } from "@mui/material";
+import {  Container, Grid } from "@mui/material";
 import ProductCard from "./ProductCard";
+// import data from '../assets/'
 
 const ProductCardContainer = () => {
   return (

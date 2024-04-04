@@ -1,0 +1,811 @@
+[
+    {
+        "id": "249802",
+        "product": "TSS Original: God Of Death",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.25,
+        "ratingCount": 4,
+        "prodQty": 522,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 899,
+        "sortOrder": 19,
+        "images": [
+            "1711186054_1884723.jpg?v=2",
+            "1711186054_4380843.jpg?v=2",
+            "1711186054_9017118.jpg?v=2",
+            "1711186054_2211944.jpg?v=2",
+            "1711186054_1601391.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711186054_1884723.jpg?v=2\", \"1711186054_4380843.jpg?v=2\", \"1711186054_9017118.jpg?v=2\", \"1711186054_2211944.jpg?v=2\", \"1711186054_1601391.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "oversized-t-shirts-god-of-death",
+        "tiptiles": null
+    },
+    {
+        "id": "246099",
+        "product": "Star Trek: Live Long and Prosper",
+        "artist": {
+            "name": "Star",
+            "slug": "star-trek"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 3,
+        "prodQty": 760,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 899,
+        "sortOrder": 20,
+        "images": [
+            "1711790062_7180888.png?v=2",
+            "1711185305_7289643.jpg?v=2",
+            "1711185305_7934667.jpg?v=2",
+            "1711185305_6197392.jpg?v=2",
+            "1711185305_6132884.jpg?v=2",
+            "1711185305_6870895.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711790062_7180888.png?v=2\", \"1711185305_7289643.jpg?v=2\", \"1711185305_7934667.jpg?v=2\", \"1711185305_6197392.jpg?v=2\", \"1711185305_6132884.jpg?v=2\", \"1711185305_6870895.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "star-trek-live-long-and-prosper-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "246774",
+        "product": "Dungeons & Dragons: Dice Give & Take",
+        "artist": {
+            "name": "Dungeons & Dragons",
+            "slug": "dungeons-and-dragons"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.73,
+        "ratingCount": 11,
+        "prodQty": 94,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 21,
+        "images": [
+            "1710744619_5320978.jpg?v=2",
+            "1710744632_1391598.jpg?v=2",
+            "1710744619_7125071.jpg?v=2",
+            "1710744619_5363102.jpg?v=2",
+            "1710744619_5819543.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1710744619_5320978.jpg?v=2\", \"1710744632_1391598.jpg?v=2\", \"1710744619_7125071.jpg?v=2\", \"1710744619_5363102.jpg?v=2\", \"1710744619_5819543.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "d-and-d-give-and-take-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "251891",
+        "product": "One Piece: Luffy The Pirate King",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 212,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 22,
+        "images": [
+            "1711710931_2295796.jpg?v=2",
+            "1711710931_8802441.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711710931_2295796.jpg?v=2\", \"1711710931_8802441.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-luffy-the-pirate-king-t-shirts-oversized",
+        "tiptiles": null
+    },
+    {
+        "id": "252552",
+        "product": "One Piece: Straw Hat Pirates",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "T-Shirts"
+        },
+        "price": 699,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 1,
+        "prodQty": 1050,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 649,
+        "sortOrder": 24,
+        "images": [
+            "1711720883_2445608.jpg?v=2",
+            "1708666154_1489858.jpg?v=2",
+            "1708666154_8467530.jpg?v=2",
+            "1708666154_4302101.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711720883_2445608.jpg?v=2\", \"1708666154_1489858.jpg?v=2\", \"1708666154_8467530.jpg?v=2\", \"1708666154_4302101.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-straw-hat-pirates-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "227969",
+        "product": "Hulk: Logo (Colourblock)",
+        "artist": {
+            "name": "Marvel",
+            "slug": "marvel-official-merchandise"
+        },
+        "category": {
+            "name": "Zipper Polos"
+        },
+        "price": 1199,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.29,
+        "ratingCount": 7,
+        "prodQty": 281,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 1129,
+        "sortOrder": 119,
+        "images": [
+            "1710530043_4407786.jpg?v=2",
+            "1710530043_6680953.jpg?v=2",
+            "1710530043_3868814.jpg?v=2",
+            "1710530043_2882657.jpg?v=2",
+            "1710530043_7855449.jpg?v=2",
+            "1710530043_9275604.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1710530043_4407786.jpg?v=2\", \"1710530043_6680953.jpg?v=2\", \"1710530043_3868814.jpg?v=2\", \"1710530043_2882657.jpg?v=2\", \"1710530043_7855449.jpg?v=2\", \"1710530043_9275604.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "hulk-logo-colourblock-men-zipper-polos",
+        "tiptiles": null
+    },
+    {
+        "id": "227966",
+        "product": "Spider-Man: Logo (Colourblock)",
+        "artist": {
+            "name": "Marvel",
+            "slug": "marvel-official-merchandise"
+        },
+        "category": {
+            "name": "Zipper Polos"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 3,
+        "ratingCount": 1,
+        "prodQty": 780,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 120,
+        "images": [
+            "1711702889_2547721.jpg?v=2",
+            "1711702889_5584497.jpg?v=2",
+            "1711702889_2008379.jpg?v=2",
+            "1711702889_9770262.jpg?v=2",
+            "1711702889_2665770.jpg?v=2",
+            "1711702889_9566675.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711702889_2547721.jpg?v=2\", \"1711702889_5584497.jpg?v=2\", \"1711702889_2008379.jpg?v=2\", \"1711702889_9770262.jpg?v=2\", \"1711702889_2665770.jpg?v=2\", \"1711702889_9566675.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "spider-man-logo-colourblock-men-zipper-polos",
+        "tiptiles": null
+    },
+    {
+        "id": "249811",
+        "product": "Solids: Sailor",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Polos"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 947,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 899,
+        "sortOrder": 121,
+        "images": [
+            "1711791921_9236816.jpg?v=2",
+            "1711791921_6232543.jpg?v=2",
+            "1711791921_8829788.jpg?v=2",
+            "1711791921_3450742.jpg?v=2",
+            "1711791921_4122208.jpg?v=2",
+            "1711791921_6424185.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711791921_9236816.jpg?v=2\", \"1711791921_6232543.jpg?v=2\", \"1711791921_8829788.jpg?v=2\", \"1711791921_3450742.jpg?v=2\", \"1711791921_4122208.jpg?v=2\", \"1711791921_6424185.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "men-polos-solids-sailor",
+        "tiptiles": null
+    },
+    {
+        "id": "253826",
+        "product": "One Piece: Most Wanted",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 2,
+        "prodQty": 2383,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 126,
+        "images": [
+            "1711608307_4931625.jpg?v=2",
+            "1711608307_3110020.jpg?v=2",
+            "1711608307_6947031.jpg?v=2",
+            "1711608307_3571089.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711608307_4931625.jpg?v=2\", \"1711608307_3110020.jpg?v=2\", \"1711608307_6947031.jpg?v=2\", \"1711608307_3571089.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-most-wanted-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "242630",
+        "product": "TSS Originals: Claret",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Oversized Full Sleeve T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 611,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 126,
+        "images": [
+            "1711792773_9612224.jpg?v=2",
+            "1711792773_2276807.jpg?v=2",
+            "1711792773_9494107.jpg?v=2",
+            "1711792773_9853859.jpg?v=2",
+            "1711792773_9810134.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711792773_9612224.jpg?v=2\", \"1711792773_2276807.jpg?v=2\", \"1711792773_9494107.jpg?v=2\", \"1711792773_9853859.jpg?v=2\", \"1711792773_9810134.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "tss-originals-claret-oversized-full-sleeve-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "248445",
+        "product": "Batman: The Justice",
+        "artist": {
+            "name": "DC Comics",
+            "slug": "dc-justice-league-official-merchandise"
+        },
+        "category": {
+            "name": "Oversized Full Sleeve T-Shirts"
+        },
+        "price": 1199,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 1967,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 1129,
+        "sortOrder": 127,
+        "images": [
+            "1712040530_5060590.jpg?v=2",
+            "1712040530_4452594.jpg?v=2",
+            "1712040530_8625552.jpg?v=2",
+            "1712040530_2770421.jpg?v=2",
+            "1712040530_8440914.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1712040530_5060590.jpg?v=2\", \"1712040530_4452594.jpg?v=2\", \"1712040530_8625552.jpg?v=2\", \"1712040530_2770421.jpg?v=2\", \"1712040530_8440914.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "batman-the-justice-oversized-full-sleeve-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "255023",
+        "product": "One Piece: Going Merry",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 3,
+        "prodQty": 1701,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 999,
+        "sortOrder": 129,
+        "images": [
+            "1711731813_5924047.jpg?v=2",
+            "1711731832_3653877.jpg?v=2",
+            "1711731854_6408062.jpg?v=2",
+            "1711731880_7401554.jpg?v=2",
+            "1711731900_5161243.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711731813_5924047.jpg?v=2\", \"1711731832_3653877.jpg?v=2\", \"1711731854_6408062.jpg?v=2\", \"1711731880_7401554.jpg?v=2\", \"1711731900_5161243.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-going-merry-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "255018",
+        "product": "One Piece: Roronoa Zoro",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 1,
+        "prodQty": 295,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 132,
+        "images": [
+            "1711696526_7090291.jpg?v=2",
+            "1711713750_2466003.jpg?v=2",
+            "1711609147_9925703.jpg?v=2",
+            "1711609147_1566627.jpg?v=2",
+            "1711609147_2574145.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711696526_7090291.jpg?v=2\", \"1711713750_2466003.jpg?v=2\", \"1711609147_9925703.jpg?v=2\", \"1711609147_1566627.jpg?v=2\", \"1711609147_2574145.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-roronoa-zoro-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "255019",
+        "product": "One Piece: Pirate Tales",
+        "artist": {
+            "name": "One Piece",
+            "slug": "one-piece"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.5,
+        "ratingCount": 4,
+        "prodQty": 6,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 949,
+        "sortOrder": 145,
+        "images": [
+            "1711731630_6801852.jpg?v=2",
+            "1711731657_5863675.jpg?v=2",
+            "1711731675_4894240.jpg?v=2",
+            "1711731697_6481877.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711731630_6801852.jpg?v=2\", \"1711731657_5863675.jpg?v=2\", \"1711731675_4894240.jpg?v=2\", \"1711731697_6481877.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "one-piece-pirate-tales-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "247888",
+        "product": "Samurai Jack: Blade",
+        "artist": {
+            "name": "Samurai Jack",
+            "slug": "samurai-jack-official-merchandise"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 941,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 999,
+        "sortOrder": 145,
+        "images": [
+            "1709288504_2905945.jpg?v=2",
+            "1709288504_1247222.jpg?v=2",
+            "1709288504_7812282.jpg?v=2",
+            "1709288504_2991563.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1709288504_2905945.jpg?v=2\", \"1709288504_1247222.jpg?v=2\", \"1709288504_7812282.jpg?v=2\", \"1709288504_2991563.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "tss-originals-samurai-jack-oversized-t-shirts-men",
+        "tiptiles": null
+    },
+    {
+        "id": "156789",
+        "product": "Batman: 3D Logo",
+        "artist": {
+            "name": "DC Comics",
+            "slug": "dc-justice-league-official-merchandise"
+        },
+        "category": {
+            "name": "T-Shirts"
+        },
+        "price": 699,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.2,
+        "ratingCount": 1314,
+        "prodQty": 898,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 649,
+        "sortOrder": 165,
+        "images": [
+            "1695457767_2085607.jpg?v=2",
+            "1622648580_6993745.jpg?v=2",
+            "1645591799_3821086.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1695457767_2085607.jpg?v=2\", \"1622648580_6993745.jpg?v=2\", \"1645591799_3821086.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "batman-3d-logo-tshirt",
+        "tiptiles": null
+    },
+    {
+        "id": "232908",
+        "product": "Solids: Pearl Grey",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Oversized Polos"
+        },
+        "price": 899,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.24,
+        "ratingCount": 46,
+        "prodQty": 80,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 799,
+        "sortOrder": 166,
+        "images": [
+            "1710519121_9262677.jpg?v=2",
+            "1694781631_1612242.jpg?v=2",
+            "1694781631_1415237.jpg?v=2",
+            "1694781631_1970239.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1710519121_9262677.jpg?v=2\", \"1694781631_1612242.jpg?v=2\", \"1694781631_1415237.jpg?v=2\", \"1694781631_1970239.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "solids-pearl-grey-oversized-polo-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "249818",
+        "product": "Solids: Black",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Polos"
+        },
+        "price": 899,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 1,
+        "prodQty": 1994,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 849,
+        "sortOrder": 167,
+        "images": [
+            "1711782229_8736257.jpg?v=2",
+            "1711782229_9299108.jpg?v=2",
+            "1711782229_5219091.jpg?v=2",
+            "1711782229_8658678.jpg?v=2",
+            "1711782229_1941634.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711782229_8736257.jpg?v=2\", \"1711782229_9299108.jpg?v=2\", \"1711782229_5219091.jpg?v=2\", \"1711782229_8658678.jpg?v=2\", \"1711782229_1941634.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "men-polos-solids-black",
+        "tiptiles": null
+    },
+    {
+        "id": "235813",
+        "product": "TSS Originals: Wild Lime",
+        "artist": {
+            "name": "The Souled Store",
+            "slug": "the-souled-store-originals"
+        },
+        "category": {
+            "name": "Men Rugby Polos"
+        },
+        "price": 999,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 0,
+        "ratingCount": 0,
+        "prodQty": 1799,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 899,
+        "sortOrder": 178,
+        "images": [
+            "1711790663_9308317.jpg?v=2",
+            "1711790663_6795064.jpg?v=2",
+            "1711790663_4868124.jpg?v=2",
+            "1711790663_2736192.jpg?v=2",
+            "1711790663_6227403.jpg?v=2",
+            "1711790663_8822567.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711790663_9308317.jpg?v=2\", \"1711790663_6795064.jpg?v=2\", \"1711790663_4868124.jpg?v=2\", \"1711790663_2736192.jpg?v=2\", \"1711790663_6227403.jpg?v=2\", \"1711790663_8822567.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "tss-originals-wild-lime-men-rugby-polos",
+        "tiptiles": null
+    },
+    {
+        "id": "252082",
+        "product": "Pennywise: Time To Float",
+        "artist": {
+            "name": "WB",
+            "slug": "wb"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.8,
+        "ratingCount": 5,
+        "prodQty": 1554,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 999,
+        "sortOrder": 189,
+        "images": [
+            "1711013609_8490801.jpg?v=2",
+            "1711013609_9957204.jpg?v=2",
+            "1711013609_8698005.jpg?v=2",
+            "1711013609_9858877.jpg?v=2",
+            "1711037907_4131826.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711013609_8490801.jpg?v=2\", \"1711013609_9957204.jpg?v=2\", \"1711013609_8698005.jpg?v=2\", \"1711013609_9858877.jpg?v=2\", \"1711037907_4131826.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "pennywise-time-to-float-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "247895",
+        "product": "Star Wars: Boba Fett",
+        "artist": {
+            "name": "Star Wars",
+            "slug": "starwars-official-merchandise"
+        },
+        "category": {
+            "name": "T-Shirts"
+        },
+        "price": 799,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 1,
+        "prodQty": 1198,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 749,
+        "sortOrder": 190,
+        "images": [
+            "1712037200_6055661.jpg?v=2",
+            "1712037200_6075028.jpg?v=2",
+            "1712037200_9346470.jpg?v=2",
+            "1712037200_8595211.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1712037200_6055661.jpg?v=2\", \"1712037200_6075028.jpg?v=2\", \"1712037200_9346470.jpg?v=2\", \"1712037200_8595211.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "star-wars-boba-fett-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "251637",
+        "product": "Dungeons & Dragons: Vintage",
+        "artist": {
+            "name": "Dungeons & Dragons",
+            "slug": "dungeons-and-dragons"
+        },
+        "category": {
+            "name": "Hooded T-Shirts"
+        },
+        "price": 1199,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 5,
+        "ratingCount": 1,
+        "prodQty": 1930,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 1129,
+        "sortOrder": 198,
+        "images": [
+            "1711434746_5255162.jpg?v=2",
+            "1711434746_2954186.jpg?v=2",
+            "1711434746_3156593.jpg?v=2",
+            "1711434746_8533237.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711434746_5255162.jpg?v=2\", \"1711434746_2954186.jpg?v=2\", \"1711434746_3156593.jpg?v=2\", \"1711434746_8533237.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "dungeons-and-dragons-vintage-hooded-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "248451",
+        "product": "Top Gun: Jets",
+        "artist": {
+            "name": "Top Gun",
+            "slug": "top-gun"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.62,
+        "ratingCount": 16,
+        "prodQty": 569,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 999,
+        "sortOrder": 485,
+        "images": [
+            "1711526675_6345129.jpg?v=2",
+            "1711184285_3952916.jpg?v=2",
+            "1711184285_8645900.jpg?v=2",
+            "1711184285_6606829.jpg?v=2",
+            "1711184285_4977925.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1711526675_6345129.jpg?v=2\", \"1711184285_3952916.jpg?v=2\", \"1711184285_8645900.jpg?v=2\", \"1711184285_6606829.jpg?v=2\", \"1711184285_4977925.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "top-gun-jets-oversized-t-shirts",
+        "tiptiles": null
+    },
+    {
+        "id": "248933",
+        "product": "Venom: Desi",
+        "artist": {
+            "name": "Marvel",
+            "slug": "marvel-official-merchandise"
+        },
+        "category": {
+            "name": "Oversized T-Shirts"
+        },
+        "price": 1049,
+        "genderType": 1,
+        "stock": 0,
+        "avgRating": 4.78,
+        "ratingCount": 23,
+        "prodQty": 219,
+        "prodType": 3,
+        "splPrice": 0,
+        "exclusivePrice": 999,
+        "sortOrder": 495,
+        "images": [
+            "1709968005_4121325.jpg?v=2",
+            "1709015563_5452764.jpg?v=2",
+            "1709015563_4659403.jpg?v=2",
+            "1709015563_5692483.jpg?v=2",
+            "1709015563_6841696.jpg?v=2"
+        ],
+        "imagesNew": "{\"unisex\": [], \"male\": [\"1709968005_4121325.jpg?v=2\", \"1709015563_5452764.jpg?v=2\", \"1709015563_4659403.jpg?v=2\", \"1709015563_5692483.jpg?v=2\", \"1709015563_6841696.jpg?v=2\"], \"female\": []}",
+        "extraPrice": 0,
+        "isPrintable": false,
+        "jitValue": "REGULAR",
+        "product_slug": "venom-desi-oversized-t-shirts",
+        "tiptiles": null
+    }
+]
