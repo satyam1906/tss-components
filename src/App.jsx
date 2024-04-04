@@ -4,6 +4,7 @@ import AppBar from "./components/Navbar";
 import ProductCardContainer from "./components/ProductCardContainer";
 import ProductPage from "./components/ProductPage";
 import SignIn from "./components/SignIn";
+import SignUp from "./components/SignUp";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
         <Routes>
           <Route path="/product" element={<ProductCardContainer />} />
           <Route path="/product-page" element={<ProductPage />} />
-          <Route path="/SignIn" element={<SignIn />} />
+          <Route path="/SingIn" element={<SignIn />} />
+          <Route path="/SingUp" element={<SignUp />} />
         </Routes>
       </BrowserRouter>
     </>
