@@ -11,6 +11,10 @@ const ProductCardContainer = () => {
           <ProductCard />
           <ProductCard />
           <ProductCard />
+          <ProductCard />
+          <ProductCard />
+          <ProductCard />
+          <ProductCard />
         </Grid>
       </Container>
     </>
