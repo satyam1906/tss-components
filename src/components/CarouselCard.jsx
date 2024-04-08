@@ -1,14 +1,17 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
-import img1 from '../src/images/img1.jpg';
-import img2 from '../src/images/img2.jpg';
-import img3 from '../src/images/img3.jpg';
-import './CarouselPage.css'; 
+import img1 from '../images/img1.jpg';
+import img2 from '../images/img2.jpg';
+import img3 from '../images/img3.jpg';
 
-const Carousel = () => {
+
+
+const CarouselCard = () => {
   return (
     <>
-    <Carousel className="custom-carousel">
+    
+    <Carousel
+    style={{maxWidth: "768px", margin: "0 auto"}} className="custom-carousel">
       <Carousel.Item>
         <img
           className="d-block w-100 custom-image"
@@ -22,6 +25,7 @@ const Carousel = () => {
       </Carousel.Item>
       <Carousel.Item>
         <img
+        style={{height: "600px",objectFit: "cover" }}
           className="d-block w-100 custom-image"
           src={img2}
           alt="Second slide"
@@ -47,4 +51,4 @@ const Carousel = () => {
   )
 }
 
-export default Carousel
+export default CarouselCard
