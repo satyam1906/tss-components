@@ -8,6 +8,8 @@ import SignUp from "./components/SignUp";
 import CarouselCard from "./components/CarouselCard";
 import Home from "./components/pages/Home";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Dashboard from "./components/Dashboard";
+import ProfilePage from "./components/ProfilePage";
 
 function App() {
   return (
@@ -21,9 +23,11 @@ function App() {
           <Route path="/product-page" element={<ProductPage />} />
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/profile" element={<Dashboard/>} />
+          <Route path="/profile-page" element={<ProfilePage/>} />
         </Routes>
       </BrowserRouter>
-      <CarouselCard/>
+      
 
     </>
   );
