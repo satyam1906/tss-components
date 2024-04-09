@@ -33,7 +33,7 @@ const ProductCard = () => {
           <Paper elevation={0}>
             <img
               className="product-image"
-              src="src\assets\test.jpg"
+              src="../assets/test.jpg"
               alt="error"
             />
             <Box marginLeft={1}>

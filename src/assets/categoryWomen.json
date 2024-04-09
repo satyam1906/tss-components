@@ -1,0 +1,146 @@
+{
+  "Categories": [
+    {
+      "id": 11,
+      "category_name": "Second Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Oversized_T-Shirts_RC6vBjZ.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Oversized_T-Shirts_B4aNBti.jpg",
+      "type": "tss",
+      "product_type": "Oversized T-Shirts",
+      "col_width": "3",
+      "url": "/women/oversized-tshirts",
+      "childs": null
+    },
+    {
+      "id": 14,
+      "category_name": "Third Row",
+      "promotion_name": "Jeans",
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Jeans_j4GnTUZ.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Jeans_kyBeIww.jpg",
+      "type": "tss",
+      "product_type": "Jeans",
+      "col_width": "3",
+      "url": "women/women-jeans",
+      "childs": null
+    },
+    {
+      "id": 5,
+      "category_name": "Third Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Cargos_Wq75wUO.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Cargos_ZvotzO5.jpg",
+      "type": "tss",
+      "product_type": "Joggers",
+      "col_width": "3",
+      "url": "women/womens-joggers",
+      "childs": null
+    },
+    {
+      "id": 3,
+      "category_name": "Second Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Co-ord_sets_CgNP1NS.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Co-ord_sets_DSxZaFY.jpg",
+      "type": "tss",
+      "product_type": "Co-ord Sets",
+      "col_width": "3",
+      "url": "/women/co-ord-sets",
+      "childs": null
+    },
+    {
+      "id": 8,
+      "category_name": "First Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Shirts_Wxzmv0a.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Shirts_GyVVwXZ.jpg",
+      "type": "tss",
+      "product_type": "Shirts",
+      "col_width": "4",
+      "url": "women/womens-shirts",
+      "childs": null
+    },
+    {
+      "id": 1,
+      "category_name": "Second Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Tops_CIkqqtC.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Tops_eXgkQOo.jpg",
+      "type": "tss",
+      "product_type": "Tops",
+      "col_width": "4",
+      "url": "tags/women-tops",
+      "childs": null
+    },
+    {
+      "id": 2,
+      "category_name": "Third Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Dresses_gJrVoBV.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Big_Tile_Dresses_MGrwTak.jpg",
+      "type": "tss",
+      "product_type": "Dresses",
+      "col_width": "4",
+      "url": "women/t-shirt-dresses",
+      "childs": null
+    },
+    {
+      "id": 15,
+      "category_name": "3rd row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Light_Layers_X6FEK5G.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Light_Layers_IAO3W6A.jpg",
+      "type": "tss",
+      "product_type": "Sweaters",
+      "col_width": "3",
+      "url": "tags/women-light-layers",
+      "childs": null
+    },
+    {
+      "id": 4,
+      "category_name": "First Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Jackets_DrEzQDr.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_Jackets_9Sdlr40.jpg",
+      "type": "tss",
+      "product_type": "Jackets",
+      "col_width": "3",
+      "url": "women/women-jackets",
+      "childs": null
+    },
+    {
+      "id": 16,
+      "category_name": "third row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_All_Bottoms_f0Wu7yf.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small_Tile_All_Bottoms_RQgDcEQ.jpg",
+      "type": "tss",
+      "product_type": "Bottomwear",
+      "col_width": "3",
+      "url": "tags/women-bottomwear",
+      "childs": null
+    },
+    {
+      "id": 6,
+      "category_name": "Third Row",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Women-Small-Tile-1-sneakers_DlmmBr0.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Women-Small-Tile-1-sneakers_GDf2WE5.jpg",
+      "type": "tss",
+      "product_type": "Shoes",
+      "col_width": "3",
+      "url": "women-footwear",
+      "childs": null
+    },
+    [
+      "Categories",
+      "2X2 carousel grid",
+      "Categories",
+      "",
+      20,
+      true,
+      false,
+      false
+    ]
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 24,
+    "name": "First Row",
+    "promotion_name": "Oversized T-shirts",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile.oversized_t-shirtsjpg.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile.oversized_t-shirtsjpg_wVkDpEf.jpg",
+    "type": "tss",
+    "product_type": "Oversized T-Shirts",
+    "col_width": "4",
+    "url": "men/oversized-tshirts",
+    "childs": null
+  },
+  {
+    "id": 40,
+    "name": "First Row",
+    "promotion_name": "Men jeans",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile.jjeans_pg.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile.jjeans_pg_ZSXKOC7.jpg",
+    "type": "tss",
+    "product_type": "Men Jeans",
+    "col_width": "4",
+    "url": "/men/men-jeans",
+    "childs": null
+  },
+  {
+    "id": 36,
+    "name": "First Row",
+    "promotion_name": "Shirts",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile_1.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/mens_big_tile_1_RN8ZSTm.jpg",
+    "type": "tss",
+    "product_type": "Shirts",
+    "col_width": "4",
+    "url": "/men/shirts",
+    "childs": null
+  },
+  {
+    "id": 25,
+    "name": "Second Row",
+    "promotion_name": "Sneakers",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/sneakers_2.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/sneakers_2_n6xmNMk.jpg",
+    "type": "tss",
+    "product_type": "Sneakers",
+    "col_width": "3",
+    "url": "tags/men-footwear",
+    "childs": null
+  },
+  {
+    "id": 12,
+    "name": "Second Row",
+    "promotion_name": "Polos",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/polos-small.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/polos-small_14de3sj.jpg",
+    "type": "tss",
+    "product_type": "Polos",
+    "col_width": "3",
+    "url": "men/polo-tshirts",
+    "childs": null
+  },
+  {
+    "id": 23,
+    "name": "Second Row",
+    "promotion_name": null,
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_1_1.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_1_1_oqpJzbq.jpg",
+    "type": "tss",
+    "product_type": "Oversized Full Sleeve T-shirts",
+    "col_width": "3",
+    "url": "/explore/oversized-full-sleeve-tshirts",
+    "childs": null
+  },
+  {
+    "id": 14,
+    "name": "Second Row",
+    "promotion_name": "Jackets",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_3.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_3_LsfDKUi.jpg",
+    "type": "tss",
+    "product_type": "Jackets",
+    "col_width": "3",
+    "url": "/men/jackets",
+    "childs": null
+  },
+  {
+    "id": 26,
+    "name": "Third Row",
+    "promotion_name": "T-shirts",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small4.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small4_jXhYiqG.jpg",
+    "type": "tss",
+    "product_type": "T-shirts",
+    "col_width": "3",
+    "url": "/men/t-shirts",
+    "childs": null
+  },
+  {
+    "id": 37,
+    "name": "Third Row",
+    "promotion_name": "Sweatshirt",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_2.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Tiles_Small_2_seIQjQJ.jpg",
+    "type": "tss",
+    "product_type": "Sweatshirts",
+    "col_width": "3",
+    "url": "/tags/sweatshirts-and-sweaters",
+    "childs": null
+  },
+  {
+    "id": 33,
+    "name": "Third Row",
+    "promotion_name": "Jeans & Pants",
+    "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/t6_4.jpg",
+    "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/t6_4_km20iS1.jpg",
+    "type": "tss",
+    "product_type": "Cargo Pants",
+    "col_width": "3",
+    "url": "men-cargos",
+    "childs": null
+  }
+]

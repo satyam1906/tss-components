@@ -79,8 +79,8 @@ const Navbar = () => {
                 letterSpacing: ".2rem",
                 textDecoration: "none",
               }}
-            >
-              TSS
+            > 
+              TBD
             </Typography>
           </Grid>
           <Grid display={"flex"} item xs={7}>

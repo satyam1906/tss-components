@@ -1,0 +1,158 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "category_name": "T-shirts",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-boys-t-shirts.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-boys-t-shirts_HgfPmnL.jpg",
+      "type": "tss",
+      "product_type": "Boys T-shirts",
+      "col_width": "3",
+      "url": "kids/boys-tshirts",
+      "childs": null
+    },
+    {
+      "id": 2,
+      "category_name": "Girls T-shirts",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-girls-tops.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-girls-tops_LwixltI.jpg",
+      "type": "tss",
+      "product_type": "Girls Oversized T-shirts",
+      "col_width": "3",
+      "url": "kids/girls-t-shirts",
+      "childs": null
+    },
+    {
+      "id": 4,
+      "category_name": "Girls Dresses",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Girls-dresses.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Girls-dresses_NPuE7Ts.jpg",
+      "type": "tss",
+      "product_type": "Girls Dresses",
+      "col_width": "3",
+      "url": "kids/girls-gathered-dresses",
+      "childs": null
+    },
+    {
+      "id": 3,
+      "category_name": "Boys Polo T-shirts",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/COLLECTION_TILES_.new.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/COLLECTION_TILES_.new_kiGdT8p.jpg",
+      "type": "tss",
+      "product_type": "Boys Polo T-shirts",
+      "col_width": "3",
+      "url": "kids/boys-polo-tshirts",
+      "childs": null
+    },
+    {
+      "id": 5,
+      "category_name": "Boys Joggers",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-boys-joggers.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-boys-joggers_OpMtOiz.jpg",
+      "type": "tss",
+      "product_type": "Boys Joggers",
+      "col_width": "3",
+      "url": "kids/boys-joggers",
+      "childs": null
+    },
+    {
+      "id": 6,
+      "category_name": "Girls Joggers",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-girls-joggers.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-girls-joggers_4LR91eC.jpg",
+      "type": "tss",
+      "product_type": "Girls Joggers",
+      "col_width": "3",
+      "url": "kids/girls-joggers",
+      "childs": null
+    },
+    {
+      "id": 11,
+      "category_name": "Boys Full Sleeves T-shirts",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-OFST.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Kids-Small-Tile-OFST_XDLoHHx.jpg",
+      "type": "tss",
+      "product_type": "Full Sleeve T-shirts",
+      "col_width": "3",
+      "url": "kids/boys-full-sleeve-tshirts",
+      "childs": null
+    },
+    {
+      "id": 12,
+      "category_name": "Girls Full Sleeves T-shirts",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/small2.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/small2_z09Ncvf.jpg",
+      "type": "tss",
+      "product_type": "Full Sleeve T-shirts",
+      "col_width": "3",
+      "url": "kids/girls-full-sleeve-t-shirts",
+      "childs": null
+    },
+    {
+      "id": 7,
+      "category_name": "Boys Sweatshirts & Hoodies",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/3_7Tmo8Fc.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/3_tsPQrRM.jpg",
+      "type": "tss",
+      "product_type": "Boys Sweatshirts & Hoodies",
+      "col_width": "3",
+      "url": "kids/boys-sweatshirts",
+      "childs": null
+    },
+    {
+      "id": 8,
+      "category_name": "Girls Sweatshirts & Hoodies",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/small1.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/small1_y8sDNXc.jpg",
+      "type": "tss",
+      "product_type": "Girls Sweatshirts & Hoodies",
+      "col_width": "3",
+      "url": "kids/girls-sweatshirts",
+      "childs": null
+    },
+    {
+      "id": 9,
+      "category_name": "Boys Jackets",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/1_JQtfOA6.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/1_GAfKHPd.jpg",
+      "type": "tss",
+      "product_type": "Jackets",
+      "col_width": "3",
+      "url": "kids/boys-jackets",
+      "childs": null
+    },
+    {
+      "id": 10,
+      "category_name": "Girls Jackets",
+      "promotion_name": null,
+      "image": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Girls-Jackets-.jpg",
+      "image_web": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/Small-Tile-Girls-Jackets-_cQo00rw.jpg",
+      "type": "tss",
+      "product_type": "Jackets",
+      "col_width": "3",
+      "url": "kids/girls-cotton-jackets",
+      "childs": null
+    },
+    [
+      "Categories",
+      "2X2 carousel grid",
+      "Categories",
+      "",
+      15,
+      true,
+      false,
+      false
+    ]
+  ]
+}
